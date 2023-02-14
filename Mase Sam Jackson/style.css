@@ -1,0 +1,45 @@
+body {
+  background-color: #99b3ff;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+    font-family: "arial black";
+  font-size: 40px;
+}
+
+h2 {
+  color: #4d004d;
+  text-align:center; 
+    font-size: 30px;
+    font-family: arial ;
+}
+
+h3 {
+  color: black;
+    font-size: 20px;
+    font-family: arial;
+     
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+    color: #990000;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.column {
+  float: left;
+  width: 15%;
+  padding: 7px;
+}
+
+.audioCenter{margin: 10px auto; width: 320px;}
